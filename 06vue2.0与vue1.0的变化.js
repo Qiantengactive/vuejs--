@@ -46,7 +46,7 @@ vue2.0
 	beforeCreate				组件实例化刚刚被创建
 	created 					实例化已经创建完成，属性已经被绑定
 		beforeMonut 			模板编译/挂载之前
-		monuted 				模板编译之后，代替之前ready   ***
+		mounted 				模板编译之后，代替之前ready   ***
 		beforeUpdate 			组件更新之前
 		update 					组件更新完毕				  ***
 	beforeDestory 				组件销毁前
